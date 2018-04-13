@@ -1,5 +1,5 @@
 # SideInput/Grouping problem
-
+ 
 This is an example of values not matching when using an AvroCoder.
 
 ## Scenario
